@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_home"
+        android:title="Registro Jornada"/>
+    <item android:id="@+id/nav_datos"
+        android:title="Tu perfil"/>
+
+    <item android:id="@+id/modDatos"
+        android:title="Modificar Datos"/>
+    <item android:id="@+id/nav_horario"
+        android:title="Horarios" />
+
+    <item android:id="@+id/nav_nomina"
+        android:title="Nóminas" />
+    <item android:id="@+id/simul_nomina"
+        android:title="Simulador nómina" />
+    <item android:id="@+id/nav_ver_registro_horas"
+        android:title="Ver horas trabajadas" />
+    <item android:id="@+id/cerrar_sesion"
+        android:title="Cerrar sesion" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </menu>

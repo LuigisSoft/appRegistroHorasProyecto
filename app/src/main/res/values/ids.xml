@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="contenedores" type="id" />
+    <item name="contenedorese" type="id" />
+    <item name="listView" type="id" />
+    <item name="modificarDatos" type="id"/>
+</resources>

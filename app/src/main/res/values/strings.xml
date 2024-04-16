@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">appRegistroHorasProyecto</string>
+    <string name="boton_entrar">Entrar</string>
+    <string name="boton_registrarse">Registrarse</string>
+    <string name="checkBox">Mantener sesión iniciada</string>
+    <string name="repCup">Olvidé mi contraseña</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="boton_Hora_entrada">Entrada</string>
+    <string name="salida">Salida</string>
+    <string name="Dialog_mensaje">Has registrado tu turno</string>
+    <string name="Dialog_mensaje2">Has guardado tus datos, puedes modificarlos en caso de haber introducido alguno mal</string>
+
+    <string name="confirmar">OK</string>
+    <string name="volver">Volver atrás</string>
+    <string name="modificar">Modificar datos</string>
+    <string name="Aceptar">Aceptar</string>
+
+    <string name="navigation_drawer_open">Abrir</string>
+    <string name="navigation_drawer_close">Cerrar</string>
+    <string name="title_activity_navigation2">navigation2</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="horario">Tu horario</string>
+    <string name="dias1">Lunes</string>
+    <string name="dias2">Martes</string>
+    <string name="dias3">Miércoles</string>
+    <string name="dias4">Jueves</string>
+    <string name="dias5">Viernes</string>
+    <string name="dias6">Sábado</string>
+    <string name="dias7">Domingo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="texto_nomina">Selecciona el año y el mes de la nómina que quieras descargate</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
